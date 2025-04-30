@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nourzm
-- 👀 I’m interested in AI, cats, animes
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning japanese & c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/nour-zamiche-37a69128b/
